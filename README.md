@@ -19,7 +19,6 @@ El análisis se apoya en un proceso reproducible de limpieza, integración y tra
 Datos públicos del proceso de admisión a la educación superior (DEMRE):
 - Inscripción al proceso de admisión
 - Resultados PAES
-- Antecedentes educacionales y socioeconómicos
 
 Disponibles en:  
 https://portal-transparencia.demre.cl/portal-base-datos
