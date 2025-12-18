@@ -17,8 +17,8 @@ El análisis se apoya en un proceso reproducible de limpieza, integración y tra
 
 ## 📂 Fuentes de datos
 Datos públicos del proceso de admisión a la educación superior (DEMRE):
-- Inscripción al proceso de admisión
-- Resultados PAES
+- Inscripción al proceso de admisión (Archivo C - Datos de puntaje de las PAES Invierno y Regular Proceso de Admisión 2025.)
+- Resultados PAES (Archivo B - Datos de Inscripción a la PAES Invierno y Regular del Proceso de Admisión 2025.)
 
 Disponibles en:  
 https://portal-transparencia.demre.cl/portal-base-datos
